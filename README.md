@@ -1,1 +1,1 @@
-# component-vue
+# 뷰 전용 컴포넌트 파일
